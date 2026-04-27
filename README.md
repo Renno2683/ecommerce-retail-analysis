@@ -100,7 +100,7 @@ See [`data/README.md`](data/README.md) for full schema.
 
 **Ranim** — aspiring Data Analyst transitioning from Finance & Administration.
 
-🔗 [LinkedIn](#) · 🐙 [GitHub](#) · 
+🔗linkedin.com/in/ranim-c-07571836a(#) · 🐙 [GitHub](#) · 
 
 ---
 
