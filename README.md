@@ -98,7 +98,7 @@ See [`data/README.md`](data/README.md) for full schema.
 
 ## 👤 Author
 
-**Ranim** — aspiring Data Analyst transitioning from Finance & Administration.
+**Ranim** - Aspiring Data Analyst transitioning from Finance & Administration.
 
 🔗linkedin.com/in/ranim-c-07571836a 🐙 https://github.com/Renno2683
 
