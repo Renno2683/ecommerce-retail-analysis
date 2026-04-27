@@ -57,7 +57,7 @@ ecommerce-analysis/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/Renno2683/ecommerce-analysis.git
+git clone https://github.com/Renno2683/ecommerce-retail-analysis.git
 cd ecommerce-analysis
 ```
 
@@ -100,7 +100,7 @@ See [`data/README.md`](data/README.md) for full schema.
 
 **Ranim** - Aspiring Data Analyst transitioning from Finance & Administration.
 
-🔗linkedin.com/in/ranim-c-07571836a 🐙 https://github.com/Renno2683
+🔗[LinkedIn](https://linkedin.com/in/ranim-c-07571836a) 🐙 https://github.com/Renno2683
 
 ---
 
